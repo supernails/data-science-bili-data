@@ -1,0 +1,1 @@
+[{'name': 0, 'value': 305}, {'name': 1, 'value': 125676}, {'name': 2, 'value': 69806}, {'name': 3, 'value': 63838}, {'name': 4, 'value': 142566}, {'name': 5, 'value': 389948}, {'name': 6, 'value': 30448}]
